@@ -24,7 +24,7 @@ BOT_STATS_TEXT = os.environ.get("BOTS_STATS_TEXT","<b>BOT UPTIME 🌺</b>\n{upti
 USER_REPLY_TEXT = os.environ.get("USER_REPLY_TEXT", "")
 
 #your bot token here from https://telegram.me/BotFather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "") 
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7691861788:AAGomdD-t6Zr4qQ2efXmwVqoq2FSJzUa4jk") 
 #your api id from https://my.telegram.org/apps
 APP_ID = int(os.environ.get("APP_ID", "22814216"))
 #your api hash from https://my.telegram.org/apps
@@ -36,7 +36,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "507206621"))
 #port set to default 8080
 PORT = os.environ.get("PORT", "8080")
 #your database url mongodb only You can use mongo atlas free cloud database
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://video:video@rishi.fzpls33.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://bakopew776:ecYU7BQ4RaeL3DtY@cluster0.iqzww.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 #your database name
 DB_NAME = os.environ.get("DB_NAME", "asuranj")
 
